@@ -1,0 +1,17 @@
+{
+    "Home": {
+        "url": ""
+    },
+    "Empresa": {
+        "url": "empresa"
+    },
+    "SIG": {},
+    "Contato": {
+        "url": "contato"
+    },
+    "Categorias": {
+        "url": "categorias",
+        "icon": "fas fa-bars",
+        "submenu": {}
+    }
+}
