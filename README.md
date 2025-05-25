@@ -26,7 +26,7 @@ Este projeto foi criado para **otimizar o tempo de desenvolvimento** no dia a di
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/oGusz/templateshop.git)
+   git clone https://github.com/oGusz/templateshop.git
 
    
 2. Importe o arquivo .sql para seu banco de dados MySQL.
